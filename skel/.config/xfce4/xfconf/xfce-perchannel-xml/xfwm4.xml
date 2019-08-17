@@ -83,5 +83,6 @@
     <property name="cycle_tabwin_mode" type="int" value="0"/>
     <property name="sync_to_vblank" type="bool" value="true"/>
     <property name="zoom_desktop" type="bool" value="true"/>
+    <property name="vblank_mode" type="string" value="xpresent"/>
   </property>
 </channel>
