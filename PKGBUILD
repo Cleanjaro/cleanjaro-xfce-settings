@@ -1,10 +1,11 @@
-# Maintainer:Ramon Buldó <rbuldo@gmail.com>
-# Maintainer: Philip Müller <philm@manjaro.org>
-# Maintainer: Bernhard Landauer <oberon@manjaro.org>
+# Maintainer: David Spink <yorper_protonmail.com>
+# Contributor: Ramon Buldó <rbuldo@gmail.com>
+# Contributor: Philip Müller <philm@manjaro.org>
+# Contributor: Bernhard Landauer <oberon@manjaro.org>
 
-pkgbase=cleanjaro-xfce-gtk3-settings
-pkgname=('cleanjaro-xfce-gtk3-settings')
-pkgver=20190807
+pkgbase=cleanjaro-xfce-settings
+pkgname=('cleanjaro-xfce-settings')
+pkgver=20190820
 pkgrel=1
 pkgdesc="Cleanjaro Linux Xfce settings"
 arch=('any')
