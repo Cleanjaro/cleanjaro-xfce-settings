@@ -9,7 +9,7 @@ pkgver=20190820
 pkgrel=1
 pkgdesc="Cleanjaro Linux Xfce settings"
 arch=('any')
-url="https://github.com/Yorper/cleanjaro-xfce-settings"
+url="https://github.com/Cleanjaro/cleanjaro-xfce-settings"
 license=('GPL')
 depends=('manjaro-base-skel'
          'papirus-maia-icon-theme'
