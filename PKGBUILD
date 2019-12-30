@@ -5,7 +5,7 @@
 
 pkgbase=cleanjaro-xfce-settings
 pkgname=('cleanjaro-xfce-settings')
-pkgver=20190820
+pkgver=20191230
 pkgrel=1
 pkgdesc="Cleanjaro Linux Xfce settings"
 arch=('any')
